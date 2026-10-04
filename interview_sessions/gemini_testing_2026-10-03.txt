@@ -1,0 +1,16 @@
+==================================================
+Interview Preparation Session
+==================================================
+
+job_title: testing
+company_name: gemini
+Date: 2026-10-03
+
+==================================================
+Questions and answers
+==================================================
+
+1. How would you design a comprehensive test strategy for an API that relies on non-deterministic machine learning model outputs?
+Answer: validate the API’s reliability and consistency at the interface level, and measure ML outputs statistically rather than deterministically.
+
+2. Explain your approach to testing a high-frequency trading or data-intensive system where latency is a critical performance metric.

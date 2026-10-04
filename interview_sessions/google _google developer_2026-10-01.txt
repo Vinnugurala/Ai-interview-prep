@@ -1,0 +1,110 @@
+==================================================
+Interview Preparation Session
+==================================================
+
+job_title:google developer
+company_name:google 
+Date: 2026-10-01
+
+==================================================
+Question and answer feedback
+==================================================
+
+Q1: 1. Tell me about yourself and why you want this role.
+Answer: i want this role because i was ready to be tester
+Feedback: ### **Overall Evaluation: Needs Significant Improvement (1/10)**
+
+While your answer states your goal (to be a software tester), it fails to properly address the prompt. Interviewers use this opening question to understand your background, skills, and genuine motivation for joining their team. 
+
+---
+
+### **Key Issues with the Answer**
+
+1. **Missed Half the Question:** You completely skipped the *"Tell me about yourself"* part. The interviewer learned nothing about your background, experience, or skills.
+2. **Too Vague and Low Effort:** Saying you are "ready to be [a] tester" doesn't explain *why* you are interested in testing, what makes you qualified, or why you want to work at *this specific company*.
+3. **Grammar and Professionalism:** 
+   * Always capitalize the pronoun **"I"**.
+   * Grammar error: *"I was ready to be tester"* should at least be *"I am ready to be a tester."*
+
+---
+
+### **How to Structure a Winning Answer**
+
+Use the **Present – Past – Future** framework:
+
+1. **Present:** Who are you right now? (Current role, recent education, or key skills).
+2. **Past:** What relevant experience, projects, or training do you have in software testing?
+3. **Future (Why this role?):** Why do you enjoy testing, and why do you want to work for *their* company specifically?
+
+---
+
+### **Example of a Strong Answer**
+
+> *"Certainly! I recently graduated with a degree in Computer Science [or: completed a comprehensive Software QA certification], where I gained hands-on experience in manual testing, creating detailed test cases, and tracking bugs using tools like Jira and Postman.*
+>
+> *During a recent project, I thoroughly tested a web application and identified several critical UI and functional bugs before deployment, which confirmed how much I enjoy the problem-solving aspect of quality assurance.*
+> 
+> *I want this role because I have a strong eye for detail and a passion for delivering smooth user experiences. I admire your company’s work on [mention a company product/feature], and I'm eager to bring my skills to your QA team to help ensure your software maintains the highest standards."*
+
+---
+
+### **Actionable Tips for Your Next Attempt:**
+* **Mention tools:** (e.g., Jira, Selenium, SQL, Postman, test management tools).
+* **Highlight QA traits:** (e.g., attention to detail, curiosity, passion for quality).
+* **Research the company:** Give one specific reason why *their* product or team interests you.
+
+Q2: 2. Describe a project you built and the hardest problem you solved in it.
+Answer: i made a food ordering system while a user orders food it shows real time tracking of develiry boy location to confirm ther user is getting or not
+Feedback: Feedback not generated: Gemini service error (503): This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+
+Q3: 3. How do you find and fix a bug in your code?
+Answer: i will run code if i get error i will cross check the portion of perticular error area and i will fi that error 
+Feedback: Here is an evaluation of the answer, along with constructive feedback and a suggested improvement.
+
+---
+
+### **Evaluation & Rating: 3 / 10 (Needs Significant Improvement)**
+
+#### **Strengths:**
+* You grasp the most basic concept of debugging: finding the area where the error occurred and attempting to resolve it.
+
+#### **Weaknesses:**
+1. **Too simplistic:** The response describes what happens, but not *how* you do it. Interviewers want to see your technical process and problem-solving methodology.
+2. **Ignores logical bugs:** Running code only throws an error for syntax or runtime issues. What if the code runs without crashing, but gives the wrong output? 
+3. **Missing tools and techniques:** You didn't mention using essential tools like debuggers, breakpoints, print/log statements, stack traces, or writing unit tests.
+4. **Poor grammar and typos:** 
+   * "i" should be capitalized ("I").
+   * "perticular" is misspelled (should be **particular**).
+   * "fi" is a typo (should be **fix**).
+   * Lack of punctuation makes it a run-on sentence.
+
+---
+
+### **Feedback: How to Structure a Strong Answer**
+
+A professional developer typically follows a structured, step-by-step process to debug:
+
+1. **Reproduce:** Recreate the bug consistently so you know what triggers it.
+2. **Isolate:** Read the stack trace/error logs, use print statements, or set breakpoints in a debugger to pinpoint the root cause.
+3. **Fix:** Understand *why* it failed before changing code, then apply a targeted solution.
+4. **Test:** Verify the fix works and write automated tests to ensure it doesn't break other parts of the application (regression testing).
+
+---
+
+### **Sample Ideal Answer:**
+
+> *"When finding and fixing a bug, I follow a systematic approach:*
+>
+> 1. ***Reproduce the issue:*** *First, I identify the steps needed to consistently trigger the bug.*
+> 2. ***Analyze logs and traces:*** *If there is an error message, I inspect the stack trace to locate the exact file and line number.*
+> 3. ***Isolate the root cause:*** *I use an IDE debugger with breakpoints—or add logging statements—to inspect variable states and execution flow. (This is especially useful for logical bugs where no explicit error is thrown).*
+> 4. ***Implement and test the fix:*** *Once I understand the root cause, I write the solution and run tests to ensure the bug is resolved without introducing regressions to other parts of the system."*
+
+Q4: 4. What is the difference between a list and a dictionary in Python?
+Answer: list is a set of elemnts to store and it was mmutable and dictonary is also a storeing element but it store data in form of key and element
+Feedback: Feedback not generated: Gemini request quota reached. Wait for the retry window or check your plan and billing.
+
+Q5: 5. How do you keep learning new technologies?
+Answer: if i want to leran new technologies i will prefer ai to research abot thtat tech and i will start leaning basics fundamenta and after i will master the tech
+Feedback: Feedback not generated: Gemini request quota reached. Wait for the retry window or check your plan and billing.
+

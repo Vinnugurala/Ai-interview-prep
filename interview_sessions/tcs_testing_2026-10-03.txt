@@ -1,0 +1,47 @@
+==================================================
+Interview Preparation Session
+==================================================
+
+job_title: testing
+company_name: tcs
+Date: 2026-10-03
+
+==================================================
+Questions and answers
+==================================================
+
+1. Explain the difference between Regression testing and Re-testing, and provide a real-world scenario for each.
+Answer: Regression ensures checkout still works after adding a search filter.
+
+2. What is the difference between Black Box testing and White Box testing, and which testing levels are associated with each?
+Answer: Example: Retesting confirms a login bug is fixed by re‑running the failed test.
+
+3. How do you handle a situation where a developer disagrees with a bug report you have raised?
+Answer: show evidence, clarify requirements, keep it collaborative, and escalate only if necessary.
+
+4. What are the key components of a well-written Test Case, and how do you determine if a test case is "effective"?
+Answer: A test case is effective if it is easy to understand, covers positive and negative scenarios, and reliably detects defects.
+
+5. Explain the STLC (Software Testing Life Cycle) and describe the specific activities performed during the Test Closure phase.
+Answer: STLC defines the flow of testing, and Test Closure focuses on reporting, documentation, lessons learned, and formal sign‑off.
+
+==================================================
+Feedback
+==================================================
+
+Here is the feedback for each of the candidate's answers:
+
+**1. Explain the difference between Regression testing and Re-testing, and provide a real-world scenario for each.**
+*   **Feedback:** Incomplete. You provided a scenario for regression but failed to define the difference between the two terms or provide a scenario for re-testing.
+
+**2. What is the difference between Black Box testing and White Box testing, and which testing levels are associated with each?**
+*   **Feedback:** Incorrect. You provided a re-testing example instead of answering the question about Black Box and White Box testing levels.
+
+**3. How do you handle a situation where a developer disagrees with a bug report you have raised?**
+*   **Feedback:** Good. You provided a clear, professional, and logical approach to conflict resolution.
+
+**4. What are the key components of a well-written Test Case, and how do you determine if a test case is "effective"?**
+*   **Feedback:** Partially complete. You addressed what makes a test case effective, but you missed the first part of the question regarding the "key components" (e.g., ID, steps, expected results, preconditions).
+
+**5. Explain the STLC (Software Testing Life Cycle) and describe the specific activities performed during the Test Closure phase.**
+*   **Feedback:** Acceptable. You provided a concise summary of the Test Closure phase, though a brief mention of the other STLC phases would have made the answer more complete.
