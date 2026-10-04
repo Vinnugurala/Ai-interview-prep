@@ -34,7 +34,28 @@ Python, Google Gemini API, python-dotenv
 
 ## Example run
 ```
-PASTE YOUR REAL TERMINAL OUTPUT HERE
+Enter the job role which you are applying for: Python Developer
+Enter the company name: Google
+
+1. Given a large log file, how would you efficiently find the top 10 most frequent IP addresses using Python while minimizing memory consumption?
+2. Explain the mechanisms of Python's Global Interpreter Lock (GIL) and how it impacts performance in multi-threaded versus multi-processing applications.
+3. How would you design a thread-safe singleton pattern in Python, and what are the potential pitfalls regarding initialization and state?
+4. Describe the internal implementation of a Python dictionary; how does it handle collisions, and what is the time complexity for insertion and lookup?
+5. Given a generator function that yields an infinite stream of data, how would you implement a way to sample exactly $k$ elements from it such that every element seen so far has an equal probability of being selected?
+
+Write your answer to Q1: I use functions, classes, and clear names.
+Write your answer to Q2: I would write tests and reproduce the bug first.
+Write your answer to Q3: I use a dictionary or set when fast lookup is needed.
+Write your answer to Q4: I review logs, isolate the failing part, and add a regression test.
+Write your answer to Q5: I communicate clearly, ask questions, and document decisions.
+
+Here is the feedback for the candidate's answers:
+
+1. The answer was irrelevant to the question. It did not address memory-efficient processing of a large log file.
+2. The answer was irrelevant to the question. It did not explain the GIL or compare threading with multiprocessing.
+3. The answer was irrelevant to the question. It did not address a thread-safe singleton design or its initialization risks.
+4. The answer was irrelevant to the question. It did not explain dictionary implementation, collision handling, or lookup complexity.
+5. The answer was irrelevant to the question. It did not describe reservoir sampling for selecting a uniform sample from a stream.
 ```
 
 ## Notes
